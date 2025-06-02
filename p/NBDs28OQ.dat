@@ -1,0 +1,15 @@
+0 Nano Disc 28 Quarter Outline Part
+0 Name: NBDs28OQ.dat
+0 Author: Robert [Caleb]
+0 !LDRAW_ORG Unofficial_Primitive
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC NOCERTIFY
+
+2 24 1 0 0 0.98 0 0.175
+2 24 0.98 0 0.175 0.93 0 0.38
+2 24 0.93 0 0.38 0.8 0 0.6
+2 24 0.8 0 0.6 0.61 0 0.79
+2 24 0.61 0 0.79 0.38 0 0.925
+2 24 0.38 0 0.925 0.175 0 0.98
+2 24 0.175 0 0.98 0 0 1

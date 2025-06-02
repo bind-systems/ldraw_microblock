@@ -1,0 +1,26 @@
+0 Generic  1 x  3
+0 Name: Gen103.dat
+0 Author: Robert [Caleb]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC NOCERTIFY
+
+0 !CATEGORY
+
+1 16 0 0 10 1 0 0 0 1 0 0 0 1 GenStud.dat
+1 16 0 0 -10 1 0 0 0 1 0 0 0 1 GenStud.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 GenStud.dat
+1 16 0 7.5 0 -5 0 0 0 7.5 0 0 0 -15 Genbox.dat
+
+0 // Inner Box
+1 16 0 7.5 0 3 0 0 0 5.5 0 0 0 13 GenBox.dat
+1 16 0 2 0 1 0 0 0 1 0 0 0 1 GenDiscO.dat
+1 16 0 2 10 1 0 0 0 1 0 0 0 1 GenDiscO.dat
+1 16 0 2 -10 1 0 0 0 1 0 0 0 1 GenDiscO.dat
+
+0 // Box Bottom
+4 16 5 7.5 15 3 7.5 13 -3 7.5 13 -5 7.5 15
+4 16 -5 7.5 15 -3 7.5 13 -3 7.5 -13 -5 7.5 -15
+4 16 -5 7.5 -15 -3 7.5 -13 3 7.5 -13 5 7.5 -15
+4 16 5 7.5 -15 3 7.5 -13 3 7.5 13 5 7.5 15

@@ -1,0 +1,16 @@
+0 Generic Disc Outline Half Part
+0 Name: GenDiscOH.dat
+0 Author: Robert [Caleb]
+0 !LDRAW_ORG Unofficial_Primitive
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC NOCERTIFY
+
+2 24 1 0 0 0.925 0 0.4
+2 24 0.925 0 0.4 0.7 0 0.725
+2 24 0.7 0 0.725 0.375 0 0.9375
+2 24 0.375 0 0.9375 0 0 1
+2 24 0 0 1 -0.375 0 0.9375
+2 24 -0.375 0 0.9375 -0.7 0 0.725
+2 24 -0.7 0 0.725 -0.925 0 0.4
+2 24 -0.925 0 0.4 -1 0 0

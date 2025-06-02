@@ -1,0 +1,18 @@
+0 Nano Disc 28 Quarter Ring Part
+0 Name: NBDs28RQ.dat
+0 Author: Robert [Caleb]
+0 !LDRAW_ORG Unofficial_Primitive
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC NOCERTIFY
+
+4 16 1 0 0 0.98 0 0.175 0.88 0 0.155 0.9 0 0
+4 16 0.98 0 0.175 0.93 0 0.38 0.835 0 0.34 0.88 0 0.155
+4 16 0.93 0 0.38 0.8 0 0.6 0.72 0 0.54 0.835 0 0.34
+4 16 0.8 0 0.6 0.61 0 0.79 0.535 0 0.72 0.72 0 0.54
+4 16 0.61 0 0.79 0.38 0 0.925 0.335 0 0.835 0.535 0 0.72
+4 16 0.38 0 0.925 0.175 0 0.98 0.15 0 0.88 0.335 0 0.835
+4 16 0.175 0 0.98 0 0 1 0 0 0.9 0.15 0 0.88
+
+0 // 1 16 0 0 0 1 0 0 0 1 0 0 0 1 NBDs28OQ.dat
+0 // 1 16 0 0 0 .9 0 0 0 .9 0 0 0 .9 NBDs28OQ.dat

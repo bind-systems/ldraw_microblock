@@ -1,0 +1,51 @@
+0 Nano Base Plate 20 X 20
+0 Name: NB20Base.dat
+0 Author: Robert [Caleb]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC NOCERTIFY
+
+0 !CATEGORY NB
+
+1 16 0 7.5 0 -100 0 0 0 7.5 0 0 0 -100 NBbox.dat
+
+0 // Inner Box
+1 16 0 7.5 0 98 0 0 0 5.5 0 0 0 98 NBBox.dat
+
+
+0 // Box Bottom
+4 16 100 7.5 100 98 7.5 98 -98 7.5 98 -100 7.5 100
+4 16 -100 7.5 100 -98 7.5 98 -98 7.5 -98 -100 7.5 -100
+4 16 -100 7.5 -100 -98 7.5 -98 98 7.5 -98 100 7.5 -100
+4 16 100 7.5 -100 98 7.5 -98 98 7.5 98 100 7.5 100
+
+0 // Clasp
+
+1 16 91 2 0 1.2 0 0 0 -5 0 0 0 90 NBBoxFul.dat
+1 16 -91 2 0 1.2 0 0 0 -5 0 0 0 90 NBBoxFul.dat
+1 16 0 2 91 92 0 0 0 -5 0 0 0 1.2 NBBoxFul.dat
+1 16 0 2 -91 92 0 0 0 -5 0 0 0 1.2 NBBoxFul.dat
+
+0 // Studs
+1 16 10 0 50 1 0 0 0 1 0 0 0 1 NBStuds10X2.dat
+1 16 -10 0 50 1 0 0 0 1 0 0 0 1 NBStuds10X2.dat
+1 16 30 0 50 1 0 0 0 1 0 0 0 1 NBStuds10X2.dat
+1 16 50 0 50 1 0 0 0 1 0 0 0 1 NBStuds10X2.dat
+1 16 -30 0 50 1 0 0 0 1 0 0 0 1 NBStuds10X2.dat
+1 16 -50 0 50 1 0 0 0 1 0 0 0 1 NBStuds10X2.dat
+1 16 -70 0 50 1 0 0 0 1 0 0 0 1 NBStuds10X2.dat
+1 16 70 0 50 1 0 0 0 1 0 0 0 1 NBStuds10X2.dat
+1 16 -90 0 50 1 0 0 0 1 0 0 0 1 NBStuds10X2.dat
+1 16 90 0 50 1 0 0 0 1 0 0 0 1 NBStuds10X2.dat
+
+1 16 10 0 -50 1 0 0 0 1 0 0 0 1 NBStuds10X2.dat
+1 16 -10 0 -50 1 0 0 0 1 0 0 0 1 NBStuds10X2.dat
+1 16 30 0 -50 1 0 0 0 1 0 0 0 1 NBStuds10X2.dat
+1 16 50 0 -50 1 0 0 0 1 0 0 0 1 NBStuds10X2.dat
+1 16 -30 0 -50 1 0 0 0 1 0 0 0 1 NBStuds10X2.dat
+1 16 -50 0 -50 1 0 0 0 1 0 0 0 1 NBStuds10X2.dat
+1 16 -70 0 -50 1 0 0 0 1 0 0 0 1 NBStuds10X2.dat
+1 16 70 0 -50 1 0 0 0 1 0 0 0 1 NBStuds10X2.dat
+1 16 -90 0 -50 1 0 0 0 1 0 0 0 1 NBStuds10X2.dat
+1 16 90 0 -50 1 0 0 0 1 0 0 0 1 NBStuds10X2.dat

@@ -1,0 +1,11 @@
+0 Nano Stud Part
+0 Name: NBStud.dat
+0 Author: Robert [Caleb]
+0 !LDRAW_ORG Unofficial_Primitive
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC NOCERTIFY
+
+1 16 0 -5 0 3 0 0 0 1 0 0 0 3 NBdiscO.dat
+1 16 0 0 0 3 0 0 0 -5 0 0 0 3 NBCyl.dat
+1 16 0 -5 0 3 0 0 0 1 0 0 0 3 NBDisc.dat

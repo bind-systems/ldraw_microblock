@@ -1,0 +1,49 @@
+0 Generic Stud Part 10 X 2
+0 Name: GenStuds10X2.dat
+0 Author: Robert [Caleb]
+0 !LDRAW_ORG Unofficial_Primitive
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC NOCERTIFY
+
+1 16 5 0 5 1 0 0 0 1 0 0 0 1 GenStud.dat
+1 16 5 0 -5 1 0 0 0 1 0 0 0 1 GenStud.dat
+1 16 -5 0 5 1 0 0 0 1 0 0 0 1 GenStud.dat
+1 16 -5 0 -5 1 0 0 0 1 0 0 0 1 GenStud.dat
+1 16 5 0 -15 1 0 0 0 1 0 0 0 1 GenStud.dat
+1 16 -5 0 -15 1 0 0 0 1 0 0 0 1 GenStud.dat
+1 16 5 0 15 1 0 0 0 1 0 0 0 1 GenStud.dat
+1 16 -5 0 15 1 0 0 0 1 0 0 0 1 GenStud.dat
+1 16 5 0 25 1 0 0 0 1 0 0 0 1 GenStud.dat
+1 16 -5 0 25 1 0 0 0 1 0 0 0 1 GenStud.dat
+1 16 5 0 35 1 0 0 0 1 0 0 0 1 GenStud.dat
+1 16 -5 0 35 1 0 0 0 1 0 0 0 1 GenStud.dat
+1 16 5 0 -25 1 0 0 0 1 0 0 0 1 GenStud.dat
+1 16 -5 0 -25 1 0 0 0 1 0 0 0 1 GenStud.dat
+1 16 5 0 -35 1 0 0 0 1 0 0 0 1 GenStud.dat
+1 16 -5 0 -35 1 0 0 0 1 0 0 0 1 GenStud.dat
+1 16 5 0 -45 1 0 0 0 1 0 0 0 1 GenStud.dat
+1 16 -5 0 -45 1 0 0 0 1 0 0 0 1 GenStud.dat
+1 16 5 0 45 1 0 0 0 1 0 0 0 1 GenStud.dat
+1 16 -5 0 45 1 0 0 0 1 0 0 0 1 GenStud.dat
+
+1 16 5 2 5 1 0 0 0 1 0 0 0 1 GenDiscO.dat
+1 16 5 2 -5 1 0 0 0 1 0 0 0 1 GenDiscO.dat
+1 16 -5 2 5 1 0 0 0 1 0 0 0 1 GenDiscO.dat
+1 16 -5 2 -5 1 0 0 0 1 0 0 0 1 GenDiscO.dat
+1 16 5 2 -15 1 0 0 0 1 0 0 0 1 GenDiscO.dat
+1 16 -5 2 -15 1 0 0 0 1 0 0 0 1 GenDiscO.dat
+1 16 5 2 15 1 0 0 0 1 0 0 0 1 GenDiscO.dat
+1 16 -5 2 15 1 0 0 0 1 0 0 0 1 GenDiscO.dat
+1 16 5 2 -25 1 0 0 0 1 0 0 0 1 GenDiscO.dat
+1 16 -5 2 -25 1 0 0 0 1 0 0 0 1 GenDiscO.dat
+1 16 5 2 -35 1 0 0 0 1 0 0 0 1 GenDiscO.dat
+1 16 -5 2 -35 1 0 0 0 1 0 0 0 1 GenDiscO.dat
+1 16 5 2 25 1 0 0 0 1 0 0 0 1 GenDiscO.dat
+1 16 -5 2 25 1 0 0 0 1 0 0 0 1 GenDiscO.dat
+1 16 5 2 35 1 0 0 0 1 0 0 0 1 GenDiscO.dat
+1 16 -5 2 35 1 0 0 0 1 0 0 0 1 GenDiscO.dat
+1 16 5 2 45 1 0 0 0 1 0 0 0 1 GenDiscO.dat
+1 16 -5 2 45 1 0 0 0 1 0 0 0 1 GenDiscO.dat
+1 16 5 2 -45 1 0 0 0 1 0 0 0 1 GenDiscO.dat
+1 16 -5 2 -45 1 0 0 0 1 0 0 0 1 GenDiscO.dat

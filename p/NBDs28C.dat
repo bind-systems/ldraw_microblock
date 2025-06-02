@@ -1,0 +1,12 @@
+0 Nano Disc 28 Cylinder Part
+0 Name: NBDs28C.dat
+0 Author: Robert [Caleb]
+0 !LDRAW_ORG Unofficial_Primitive
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC NOCERTIFY
+
+1 16 0 0 0 10 0 0 0 10 0 0 0 10 NBDs28CQ.dat
+1 16 0 0 0 -10 0 0 0 10 0 0 0 10 NBDs28CQ.dat
+1 16 0 0 0 10 0 0 0 10 0 0 0 -10 NBDs28CQ.dat
+1 16 0 0 0 -10 0 0 0 10 0 0 0 -10 NBDs28CQ.dat
