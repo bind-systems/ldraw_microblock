@@ -1,0 +1,94 @@
+0 Generic Base Plate 64 X 64
+0 Name: Gen64Base.dat
+0 Author: Robert [Caleb]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC NOCERTIFY
+
+1 16 0 7.5 0 -320 0 0 0 7.5 0 0 0 -320 Genbox.dat
+
+0 // Inner Box
+1 16 0 7.5 0 318 0 0 0 5.5 0 0 0 318 GenBox.dat
+
+
+0 // Box Bottom
+4 16 320 7.5 320 318 7.5 318 -318 7.5 318 -320 7.5 320
+4 16 -320 7.5 320 -318 7.5 318 -318 7.5 -318 -320 7.5 -320
+4 16 -320 7.5 -320 -318 7.5 -318 318 7.5 -318 320 7.5 -320
+4 16 320 7.5 -320 318 7.5 -318 318 7.5 318 320 7.5 320
+
+0 // Clasp
+
+1 16 311 2 0 1.2 0 0 0 -5 0 0 0 310 GenBoxFul.dat
+1 16 -311 2 0 1.2 0 0 0 -5 0 0 0 310 GenBoxFul.dat
+1 16 0 2 311 312 0 0 0 -5 0 0 0 1.2 GenBoxFul.dat
+1 16 0 2 -311 312 0 0 0 -5 0 0 0 1.2 GenBoxFul.dat
+
+0 // Studs
+
+1 16 10 0 160 1 0 0 0 1 0 0 0 1 GenStuds32X2.dat
+1 16 -10 0 160 1 0 0 0 1 0 0 0 1 GenStuds32X2.dat
+1 16 -30 0 160 1 0 0 0 1 0 0 0 1 GenStuds32X2.dat
+1 16 30 0 160 1 0 0 0 1 0 0 0 1 GenStuds32X2.dat
+1 16 -50 0 160 1 0 0 0 1 0 0 0 1 GenStuds32X2.dat
+1 16 50 0 160 1 0 0 0 1 0 0 0 1 GenStuds32X2.dat
+1 16 70 0 160 1 0 0 0 1 0 0 0 1 GenStuds32X2.dat
+1 16 -70 0 160 1 0 0 0 1 0 0 0 1 GenStuds32X2.dat
+1 16 -90 0 160 1 0 0 0 1 0 0 0 1 GenStuds32X2.dat
+1 16 90 0 160 1 0 0 0 1 0 0 0 1 GenStuds32X2.dat
+1 16 -110 0 160 1 0 0 0 1 0 0 0 1 GenStuds32X2.dat
+1 16 110 0 160 1 0 0 0 1 0 0 0 1 GenStuds32X2.dat
+1 16 -130 0 160 1 0 0 0 1 0 0 0 1 GenStuds32X2.dat
+1 16 130 0 160 1 0 0 0 1 0 0 0 1 GenStuds32X2.dat
+1 16 -150 0 160 1 0 0 0 1 0 0 0 1 GenStuds32X2.dat
+1 16 150 0 160 1 0 0 0 1 0 0 0 1 GenStuds32X2.dat
+1 16 -170 0 160 1 0 0 0 1 0 0 0 1 GenStuds32X2.dat
+1 16 170 0 160 1 0 0 0 1 0 0 0 1 GenStuds32X2.dat
+1 16 -190 0 160 1 0 0 0 1 0 0 0 1 GenStuds32X2.dat
+1 16 190 0 160 1 0 0 0 1 0 0 0 1 GenStuds32X2.dat
+1 16 -210 0 160 1 0 0 0 1 0 0 0 1 GenStuds32X2.dat
+1 16 210 0 160 1 0 0 0 1 0 0 0 1 GenStuds32X2.dat
+1 16 -230 0 160 1 0 0 0 1 0 0 0 1 GenStuds32X2.dat
+1 16 230 0 160 1 0 0 0 1 0 0 0 1 GenStuds32X2.dat
+1 16 -250 0 160 1 0 0 0 1 0 0 0 1 GenStuds32X2.dat
+1 16 250 0 160 1 0 0 0 1 0 0 0 1 GenStuds32X2.dat
+1 16 -270 0 160 1 0 0 0 1 0 0 0 1 GenStuds32X2.dat
+1 16 270 0 160 1 0 0 0 1 0 0 0 1 GenStuds32X2.dat
+1 16 -290 0 160 1 0 0 0 1 0 0 0 1 GenStuds32X2.dat
+1 16 290 0 160 1 0 0 0 1 0 0 0 1 GenStuds32X2.dat
+1 16 -310 0 160 1 0 0 0 1 0 0 0 1 GenStuds32X2.dat
+1 16 310 0 160 1 0 0 0 1 0 0 0 1 GenStuds32X2.dat
+
+1 16 10 0 -160 1 0 0 0 1 0 0 0 1 GenStuds32X2.dat
+1 16 -10 0 -160 1 0 0 0 1 0 0 0 1 GenStuds32X2.dat
+1 16 -30 0 -160 1 0 0 0 1 0 0 0 1 GenStuds32X2.dat
+1 16 30 0 -160 1 0 0 0 1 0 0 0 1 GenStuds32X2.dat
+1 16 -50 0 -160 1 0 0 0 1 0 0 0 1 GenStuds32X2.dat
+1 16 50 0 -160 1 0 0 0 1 0 0 0 1 GenStuds32X2.dat
+1 16 70 0 -160 1 0 0 0 1 0 0 0 1 GenStuds32X2.dat
+1 16 -70 0 -160 1 0 0 0 1 0 0 0 1 GenStuds32X2.dat
+1 16 -90 0 -160 1 0 0 0 1 0 0 0 1 GenStuds32X2.dat
+1 16 90 0 -160 1 0 0 0 1 0 0 0 1 GenStuds32X2.dat
+1 16 -110 0 -160 1 0 0 0 1 0 0 0 1 GenStuds32X2.dat
+1 16 110 0 -160 1 0 0 0 1 0 0 0 1 GenStuds32X2.dat
+1 16 -130 0 -160 1 0 0 0 1 0 0 0 1 GenStuds32X2.dat
+1 16 130 0 -160 1 0 0 0 1 0 0 0 1 GenStuds32X2.dat
+1 16 -150 0 -160 1 0 0 0 1 0 0 0 1 GenStuds32X2.dat
+1 16 150 0 -160 1 0 0 0 1 0 0 0 1 GenStuds32X2.dat
+1 16 -170 0 -160 1 0 0 0 1 0 0 0 1 GenStuds32X2.dat
+1 16 170 0 -160 1 0 0 0 1 0 0 0 1 GenStuds32X2.dat
+1 16 -190 0 -160 1 0 0 0 1 0 0 0 1 GenStuds32X2.dat
+1 16 190 0 -160 1 0 0 0 1 0 0 0 1 GenStuds32X2.dat
+1 16 -210 0 -160 1 0 0 0 1 0 0 0 1 GenStuds32X2.dat
+1 16 210 0 -160 1 0 0 0 1 0 0 0 1 GenStuds32X2.dat
+1 16 -230 0 -160 1 0 0 0 1 0 0 0 1 GenStuds32X2.dat
+1 16 230 0 -160 1 0 0 0 1 0 0 0 1 GenStuds32X2.dat
+1 16 -250 0 -160 1 0 0 0 1 0 0 0 1 GenStuds32X2.dat
+1 16 250 0 -160 1 0 0 0 1 0 0 0 1 GenStuds32X2.dat
+1 16 -270 0 -160 1 0 0 0 1 0 0 0 1 GenStuds32X2.dat
+1 16 270 0 -160 1 0 0 0 1 0 0 0 1 GenStuds32X2.dat
+1 16 -290 0 -160 1 0 0 0 1 0 0 0 1 GenStuds32X2.dat
+1 16 290 0 -160 1 0 0 0 1 0 0 0 1 GenStuds32X2.dat
+1 16 -310 0 -160 1 0 0 0 1 0 0 0 1 GenStuds32X2.dat
+1 16 310 0 -160 1 0 0 0 1 0 0 0 1 GenStuds32X2.dat

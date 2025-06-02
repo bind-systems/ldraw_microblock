@@ -1,0 +1,33 @@
+0 Generic  4 X 28
+0 Name: Gen4028.dat
+0 Author: Robert [Caleb]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC NOCERTIFY
+
+1 16 10 0 0 1 0 0 0 1 0 0 0 1 GenStuds8X2.dat
+1 16 -10 0 0 1 0 0 0 1 0 0 0 1 GenStuds8X2.dat
+
+1 16 10 0 90 1 0 0 0 1 0 0 0 1 GenStuds10X2.dat
+1 16 -10 0 90 1 0 0 0 1 0 0 0 1 GenStuds10X2.dat
+1 16 10 0 -90 1 0 0 0 1 0 0 0 1 GenStuds10X2.dat
+1 16 -10 0 -90 1 0 0 0 1 0 0 0 1 GenStuds10X2.dat
+
+1 16 0 7.5 0 -20 0 0 0 7.5 0 0 0 -140 Genbox.dat
+
+0 // Inner Box
+1 16 0 7.5 0 18 0 0 0 5.5 0 0 0 138 GenBox.dat
+
+
+
+0 // Box Bottom
+4 16 20 7.5 140 18 7.5 138 -18 7.5 138 -20 7.5 140
+4 16 -20 7.5 140 -18 7.5 138 -18 7.5 -138 -20 7.5 -140
+4 16 -20 7.5 -140 -18 7.5 -138 18 7.5 -138 20 7.5 -140
+4 16 20 7.5 -140 18 7.5 -138 18 7.5 138 20 7.5 140
+
+0 // Middle Clasp
+1 16 1 0 0 1 0 0 0 1 0 0 0 1 GenClasp3x7.dat
+1 16 1 0 85 1 0 0 0 1 0 0 0 1 GenClasp3x10.dat
+1 16 1 0 -85 1 0 0 0 1 0 0 0 1 GenClasp3x10.dat

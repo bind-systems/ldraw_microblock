@@ -1,0 +1,36 @@
+0 Nano  2 X  3
+0 Name: NB203.dat
+0 Author: Robert [Caleb]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC NOCERTIFY
+
+0 !CATEGORY NB
+
+1 16 5 0 10 1 0 0 0 1 0 0 0 1 NBStud.dat
+1 16 5 0 -10 1 0 0 0 1 0 0 0 1 NBStud.dat
+1 16 -5 0 10 1 0 0 0 1 0 0 0 1 NBStud.dat
+1 16 -5 0 -10 1 0 0 0 1 0 0 0 1 NBStud.dat
+1 16 -5 0 0 1 0 0 0 1 0 0 0 1 NBStud.dat
+1 16 5 0 0 1 0 0 0 1 0 0 0 1 NBStud.dat
+1 16 0 7.5 0 -10 0 0 0 7.5 0 0 0 -15 NBbox.dat
+
+0 // Inner Box
+1 16 0 7.5 0 8 0 0 0 5.5 0 0 0 13 NBBox.dat
+1 16 5 2 10 1 0 0 0 1 0 0 0 1 NBDiscO.dat
+1 16 5 2 -10 1 0 0 0 1 0 0 0 1 NBDiscO.dat
+1 16 -5 2 10 1 0 0 0 1 0 0 0 1 NBDiscO.dat
+1 16 -5 2 -10 1 0 0 0 1 0 0 0 1 NBDiscO.dat
+1 16 -5 2 0 1 0 0 0 1 0 0 0 1 NBDiscO.dat
+1 16 5 2 0 1 0 0 0 1 0 0 0 1 NBDiscO.dat
+
+0 // Box Bottom
+4 16 10 7.5 15 8 7.5 13 -8 7.5 13 -10 7.5 15
+4 16 -10 7.5 15 -8 7.5 13 -8 7.5 -13 -10 7.5 -15
+4 16 -10 7.5 -15 -8 7.5 -13 8 7.5 -13 10 7.5 -15
+4 16 10 7.5 -15 8 7.5 -13 8 7.5 13 10 7.5 15
+
+0 // Middle Clasp
+1 16 1.5 2 0 0.4 0 0 0 -5 0 0 0 12 NBBoxFul.dat
+1 16 -1.5 2 0 0.4 0 0 0 -5 0 0 0 12 NBBoxFul.dat

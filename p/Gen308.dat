@@ -1,0 +1,84 @@
+0 Generic  3 X  8
+0 Name: Gen308.dat
+0 Author: Robert [Caleb]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC NOCERTIFY
+
+1 16 10 0 5 1 0 0 0 1 0 0 0 1 GenStud.dat
+1 16 -10 0 5 1 0 0 0 1 0 0 0 1 GenStud.dat
+1 16 0 0 -5 1 0 0 0 1 0 0 0 1 GenStud.dat
+1 16 0 0 5 1 0 0 0 1 0 0 0 1 GenStud.dat
+1 16 10 0 -5 1 0 0 0 1 0 0 0 1 GenStud.dat
+1 16 -10 0 -5 1 0 0 0 1 0 0 0 1 GenStud.dat
+1 16 10 0 -15 1 0 0 0 1 0 0 0 1 GenStud.dat
+1 16 -10 0 -15 1 0 0 0 1 0 0 0 1 GenStud.dat
+1 16 0 0 -15 1 0 0 0 1 0 0 0 1 GenStud.dat
+1 16 10 0 15 1 0 0 0 1 0 0 0 1 GenStud.dat
+1 16 -10 0 15 1 0 0 0 1 0 0 0 1 GenStud.dat
+1 16 0 0 15 1 0 0 0 1 0 0 0 1 GenStud.dat
+1 16 10 0 25 1 0 0 0 1 0 0 0 1 GenStud.dat
+1 16 -10 0 25 1 0 0 0 1 0 0 0 1 GenStud.dat
+1 16 0 0 25 1 0 0 0 1 0 0 0 1 GenStud.dat
+1 16 10 0 35 1 0 0 0 1 0 0 0 1 GenStud.dat
+1 16 -10 0 35 1 0 0 0 1 0 0 0 1 GenStud.dat
+1 16 0 0 35 1 0 0 0 1 0 0 0 1 GenStud.dat
+1 16 10 0 -25 1 0 0 0 1 0 0 0 1 GenStud.dat
+1 16 -10 0 -25 1 0 0 0 1 0 0 0 1 GenStud.dat
+1 16 0 0 -25 1 0 0 0 1 0 0 0 1 GenStud.dat
+1 16 10 0 -35 1 0 0 0 1 0 0 0 1 GenStud.dat
+1 16 -10 0 -35 1 0 0 0 1 0 0 0 1 GenStud.dat
+1 16 0 0 -35 1 0 0 0 1 0 0 0 1 GenStud.dat
+
+1 16 0 7.5 0 -15 0 0 0 7.5 0 0 0 -40 Genbox.dat
+
+0 // Inner Box
+1 16 0 7.5 0 13 0 0 0 5.5 0 0 0 38 GenBox.dat
+1 16 10 2 5 1 0 0 0 1 0 0 0 1 GenDiscO.dat
+1 16 0 2 5 1 0 0 0 1 0 0 0 1 GenDiscO.dat
+1 16 10 2 -5 1 0 0 0 1 0 0 0 1 GenDiscO.dat
+1 16 0 2 -5 1 0 0 0 1 0 0 0 1 GenDiscO.dat
+1 16 -10 2 5 1 0 0 0 1 0 0 0 1 GenDiscO.dat
+1 16 -10 2 -5 1 0 0 0 1 0 0 0 1 GenDiscO.dat
+1 16 10 2 -15 1 0 0 0 1 0 0 0 1 GenDiscO.dat
+1 16 0 2 -15 1 0 0 0 1 0 0 0 1 GenDiscO.dat
+1 16 -10 2 -15 1 0 0 0 1 0 0 0 1 GenDiscO.dat
+1 16 10 2 15 1 0 0 0 1 0 0 0 1 GenDiscO.dat
+1 16 0 2 15 1 0 0 0 1 0 0 0 1 GenDiscO.dat
+1 16 -10 2 15 1 0 0 0 1 0 0 0 1 GenDiscO.dat
+1 16 10 2 -25 1 0 0 0 1 0 0 0 1 GenDiscO.dat
+1 16 0 2 -25 1 0 0 0 1 0 0 0 1 GenDiscO.dat
+1 16 -10 2 -25 1 0 0 0 1 0 0 0 1 GenDiscO.dat
+1 16 10 2 -35 1 0 0 0 1 0 0 0 1 GenDiscO.dat
+1 16 0 2 -35 1 0 0 0 1 0 0 0 1 GenDiscO.dat
+1 16 -10 2 -35 1 0 0 0 1 0 0 0 1 GenDiscO.dat
+1 16 10 2 25 1 0 0 0 1 0 0 0 1 GenDiscO.dat
+1 16 0 2 25 1 0 0 0 1 0 0 0 1 GenDiscO.dat
+1 16 -10 2 25 1 0 0 0 1 0 0 0 1 GenDiscO.dat
+1 16 10 2 35 1 0 0 0 1 0 0 0 1 GenDiscO.dat
+1 16 -10 2 35 1 0 0 0 1 0 0 0 1 GenDiscO.dat
+
+
+0 // Box Bottom
+4 16 15 7.5 40 13 7.5 38 -13 7.5 38 -15 7.5 40
+4 16 -15 7.5 40 -13 7.5 38 -13 7.5 -38 -15 7.5 -40
+4 16 -15 7.5 -40 -13 7.5 -38 13 7.5 -38 15 7.5 -40
+4 16 15 7.5 -40 13 7.5 -38 13 7.5 38 15 7.5 40
+
+0 // Middle Clasp
+1 16 5 7.45 0 1.3 0 0 0 1 0 0 0 1.3 GenClasp.dat
+1 16 5 7.45 10 1.3 0 0 0 1 0 0 0 1.3 GenClasp.dat
+1 16 5 7.45 -10 1.3 0 0 0 1 0 0 0 1.3 GenClasp.dat
+1 16 5 7.45 20 1.3 0 0 0 1 0 0 0 1.3 GenClasp.dat
+1 16 5 7.45 -20 1.3 0 0 0 1 0 0 0 1.3 GenClasp.dat
+1 16 5 7.45 30 1.3 0 0 0 1 0 0 0 1.3 GenClasp.dat
+1 16 5 7.45 -30 1.3 0 0 0 1 0 0 0 1.3 GenClasp.dat
+
+1 16 -5 7.45 0 1.3 0 0 0 1 0 0 0 1.3 GenClasp.dat
+1 16 -5 7.45 10 1.3 0 0 0 1 0 0 0 1.3 GenClasp.dat
+1 16 -5 7.45 -10 1.3 0 0 0 1 0 0 0 1.3 GenClasp.dat
+1 16 -5 7.45 20 1.3 0 0 0 1 0 0 0 1.3 GenClasp.dat
+1 16 -5 7.45 -20 1.3 0 0 0 1 0 0 0 1.3 GenClasp.dat
+1 16 -5 7.45 30 1.3 0 0 0 1 0 0 0 1.3 GenClasp.dat
+1 16 -5 7.45 -30 1.3 0 0 0 1 0 0 0 1.3 GenClasp.dat

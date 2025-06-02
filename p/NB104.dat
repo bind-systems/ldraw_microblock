@@ -1,0 +1,28 @@
+0 Nano  1 x  4
+0 Name: NB104.dat
+0 Author: Robert [Caleb]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC NOCERTIFY
+
+0 !CATEGORY NB
+
+1 16 0 0 5 1 0 0 0 1 0 0 0 1 NBStud.dat
+1 16 0 0 -5 1 0 0 0 1 0 0 0 1 NBStud.dat
+1 16 0 0 15 1 0 0 0 1 0 0 0 1 NBStud.dat
+1 16 0 0 -15 1 0 0 0 1 0 0 0 1 NBStud.dat
+1 16 0 7.5 0 -5 0 0 0 7.5 0 0 0 -20 NBbox.dat
+
+0 // Inner Box
+1 16 0 7.5 0 3 0 0 0 5.5 0 0 0 18 NBBox.dat
+1 16 0 2 5 1 0 0 0 1 0 0 0 1 NBDiscO.dat
+1 16 0 2 -5 1 0 0 0 1 0 0 0 1 NBDiscO.dat
+1 16 0 2 15 1 0 0 0 1 0 0 0 1 NBDiscO.dat
+1 16 0 2 -15 1 0 0 0 1 0 0 0 1 NBDiscO.dat
+
+0 // Box Bottom
+4 16 5 7.5 20 3 7.5 18 -3 7.5 18 -5 7.5 20
+4 16 -5 7.5 20 -3 7.5 18 -3 7.5 -18 -5 7.5 -20
+4 16 -5 7.5 -20 -3 7.5 -18 3 7.5 -18 5 7.5 -20
+4 16 5 7.5 -20 3 7.5 -18 3 7.5 18 5 7.5 20

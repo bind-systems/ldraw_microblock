@@ -1,0 +1,45 @@
+0 Generic Base Plate 32 X 32
+0 Name: Gen32Base.dat
+0 Author: Robert [Caleb]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC NOCERTIFY
+
+1 16 0 7.5 0 -160 0 0 0 7.5 0 0 0 -160 Genbox.dat
+
+0 // Inner Box
+1 16 0 7.5 0 158 0 0 0 5.5 0 0 0 158 GenBox.dat
+
+
+0 // Box Bottom
+4 16 160 7.5 160 158 7.5 158 -158 7.5 158 -160 7.5 160
+4 16 -160 7.5 160 -158 7.5 158 -158 7.5 -158 -160 7.5 -160
+4 16 -160 7.5 -160 -158 7.5 -158 158 7.5 -158 160 7.5 -160
+4 16 160 7.5 -160 158 7.5 -158 158 7.5 158 160 7.5 160
+
+0 // Clasp
+
+1 16 151 2 0 1.2 0 0 0 -5 0 0 0 150 GenBoxFul.dat
+1 16 -151 2 0 1.2 0 0 0 -5 0 0 0 150 GenBoxFul.dat
+1 16 0 2 151 152 0 0 0 -5 0 0 0 1.2 GenBoxFul.dat
+1 16 0 2 -151 152 0 0 0 -5 0 0 0 1.2 GenBoxFul.dat
+
+0 // Studs
+
+1 16 10 0 0 1 0 0 0 1 0 0 0 1 GenStuds32X2.dat
+1 16 -10 0 0 1 0 0 0 1 0 0 0 1 GenStuds32X2.dat
+1 16 -30 0 0 1 0 0 0 1 0 0 0 1 GenStuds32X2.dat
+1 16 30 0 0 1 0 0 0 1 0 0 0 1 GenStuds32X2.dat
+1 16 -50 0 0 1 0 0 0 1 0 0 0 1 GenStuds32X2.dat
+1 16 50 0 0 1 0 0 0 1 0 0 0 1 GenStuds32X2.dat
+1 16 70 0 0 1 0 0 0 1 0 0 0 1 GenStuds32X2.dat
+1 16 -70 0 0 1 0 0 0 1 0 0 0 1 GenStuds32X2.dat
+1 16 -90 0 0 1 0 0 0 1 0 0 0 1 GenStuds32X2.dat
+1 16 90 0 0 1 0 0 0 1 0 0 0 1 GenStuds32X2.dat
+1 16 -110 0 0 1 0 0 0 1 0 0 0 1 GenStuds32X2.dat
+1 16 110 0 0 1 0 0 0 1 0 0 0 1 GenStuds32X2.dat
+1 16 -130 0 0 1 0 0 0 1 0 0 0 1 GenStuds32X2.dat
+1 16 130 0 0 1 0 0 0 1 0 0 0 1 GenStuds32X2.dat
+1 16 -150 0 0 1 0 0 0 1 0 0 0 1 GenStuds32X2.dat
+1 16 150 0 0 1 0 0 0 1 0 0 0 1 GenStuds32X2.dat

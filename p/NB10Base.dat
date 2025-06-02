@@ -1,0 +1,35 @@
+0 Nano Base Plate 10 X 10
+0 Name: NB10Base.dat
+0 Author: Robert [Caleb]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC NOCERTIFY
+
+0 !CATEGORY NB
+
+1 16 0 7.5 0 -50 0 0 0 7.5 0 0 0 -50 NBbox.dat
+
+0 // Inner Box
+1 16 0 7.5 0 48 0 0 0 5.5 0 0 0 48 NBBox.dat
+
+
+0 // Box Bottom
+4 16 50 7.5 50 48 7.5 48 -48 7.5 48 -50 7.5 50
+4 16 -50 7.5 50 -48 7.5 48 -48 7.5 -48 -50 7.5 -50
+4 16 -50 7.5 -50 -48 7.5 -48 48 7.5 -48 50 7.5 -50
+4 16 50 7.5 -50 48 7.5 -48 48 7.5 48 50 7.5 50
+
+0 // Clasp
+
+1 16 41 2 0 1.2 0 0 0 -5 0 0 0 40 NBBoxFul.dat
+1 16 -41 2 0 1.2 0 0 0 -5 0 0 0 40 NBBoxFul.dat
+1 16 0 2 41 42 0 0 0 -5 0 0 0 1.2 NBBoxFul.dat
+1 16 0 2 -41 42 0 0 0 -5 0 0 0 1.2 NBBoxFul.dat
+
+0 // Studs
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 NBStuds10X2.dat
+1 16 20 0 0 1 0 0 0 1 0 0 0 1 NBStuds10X2.dat
+1 16 40 0 0 1 0 0 0 1 0 0 0 1 NBStuds10X2.dat
+1 16 -20 0 0 1 0 0 0 1 0 0 0 1 NBStuds10X2.dat
+1 16 -40 0 0 1 0 0 0 1 0 0 0 1 NBStuds10X2.dat

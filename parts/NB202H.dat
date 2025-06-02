@@ -1,0 +1,37 @@
+0 Nano  2 X  2 Hub
+0 Name: NB202H.dat
+0 Author: Robert [Caleb]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC NOCERTIFY
+
+0 !CATEGORY NB
+
+1 16 5 0 5 1 0 0 0 1 0 0 0 1 NBStud.dat
+1 16 5 0 -5 1 0 0 0 1 0 0 0 1 NBStud.dat
+1 16 -5 0 -5 1 0 0 0 1 0 0 0 1 NBStud.dat
+1 16 -5 0 5 1 0 0 0 1 0 0 0 1 NBStud.dat
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 NBDs28O.dat
+1 16 0 7 0 1.05 0 0 0 1 0 0 0 1.05 NBDs28O.dat
+1 16 0 7.5 0 1.05 0 0 0 1 0 0 0 1.05 NBDs28O.dat
+1 16 0 7 0 1 0 0 0 1 0 0 0 1 NBDs28O.dat
+
+1 16 0 3.455 0 1 0 0 0 0.7 0 0 0 1 NBDs28C.dat
+1 16 0 7 0 1.05 0 0 0 1 0 0 0 1.05 NBDs28R.dat
+1 16 0 7.25 0 1.05 0 0 0 0.05 0 0 0 1.05 NBDs28C.dat
+
+1 16 0 7.5 0 1.05 0 0 0 1 0 0 0 1.05 NBDs28RA.dat
+1 16 0 7.5 0 0.73 0 0 0 1 0 0 0 0.73 NBDs28O.dat
+
+1 16 0 7.5 0 0.6 0 0 0 1 0 0 0 0.6 NBDs28O.dat
+1 16 0 7.5 0 0.42 0 0 0 1 0 0 0 0.42 NBDs28O.dat
+1 16 0 7.5 0 0.6 0 0 0 1 0 0 0 0.6 NBDs28RA.dat
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 NBDs28RB.dat
+
+1 16 0 0 0 0.42 0 0 0 1 0 0 0 0.42 NBDs28O.dat
+1 16 0 3.75 0 0.42 0 0 0 0.75 0 0 0 0.42 NBDs28C.dat
+1 16 0 3.75 0 0.73 0 0 0 0.75 0 0 0 0.73 NBDs28C.dat
+1 16 0 3.75 0 0.6 0 0 0 0.75 0 0 0 0.6 NBDs28C.dat
